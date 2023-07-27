@@ -379,3 +379,14 @@
     margin-top: -65px;
   }
 }
+@media (max-width: 500px) {
+  .item7.mart {
+    margin-top: -35px;
+  }
+  .item2.mart {
+    margin-top: -15px;
+  }
+  .item4.mart {
+    margin-top: -15px;
+  }
+}
